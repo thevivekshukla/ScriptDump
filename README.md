@@ -1,5 +1,9 @@
 # ScriptDump
 
+>“Any fool can write code that a computer can understand.
+>Good programmers write code that humans can understand.”
+>                                                   – Martin Fowler
+
 ### Dump your useful or useless scripts here
 
 _List of categories_
